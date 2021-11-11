@@ -1,17 +1,17 @@
 import Link from 'next/link';
 import React from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
-import { DiCssdeck } from 'react-icons/di';
+import { DiHeroku } from 'react-icons/di';
 
-import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles';
+import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
 
 const Header = () =>  (
   <Container>
     <Div1>
       <Link href="/">
-        <a style={{display: "flex", alignItems:"center", color:"white"}}>
-          <DiCssdeck size="3rem"/> <span>Home</span>
-        </a>
+        <NavLink style={{display:"flex"}}>
+          <DiHeroku size="3rem"/> <Span>Home</Span>
+        </NavLink>
       </Link>
     </Div1>
     <Div2>
@@ -31,7 +31,17 @@ const Header = () =>  (
         </Link>
       </li>
     </Div2>
-    
+    <Div3>
+      <SocialIcons href="/">
+        <AiFillLinkedin size="3rem"/>
+      </SocialIcons>
+      <SocialIcons href="/">
+        <AiFillInstagram size="3rem"/>
+      </SocialIcons>
+      <SocialIcons href="/">
+        <AiFillGithub size="3rem"/>
+      </SocialIcons>
+    </Div3>
   </Container>
 );
 

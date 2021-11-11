@@ -266,8 +266,8 @@ const BackgroundAnimation = () => (
           y2="218.154"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#945DD6" />
-          <stop offset="1" stopColor="#945DD6" stopOpacity="0" />
+          <stop stopColor="#00693E" />
+          <stop offset="1" stopColor="#00693E" stopOpacity="0" />
         </linearGradient>
         <linearGradient
           id="paint4_linear"
@@ -277,8 +277,8 @@ const BackgroundAnimation = () => (
           y2="338.272"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#945DD6" />
-          <stop offset="1" stopColor="#945DD6" stopOpacity="0" />
+          <stop stopColor="#00693E" />
+          <stop offset="1" stopColor="#00693E" stopOpacity="0" />
         </linearGradient>
         <linearGradient
           id="paint5_linear"
@@ -288,8 +288,8 @@ const BackgroundAnimation = () => (
           y2="129.989"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#F46737" />
-          <stop offset="1" stopColor="#F46737" stopOpacity="0" />
+          <stop stopColor="#39FF14" />
+          <stop offset="1" stopColor="#39FF14" stopOpacity="0" />
         </linearGradient>
         <linearGradient
           id="paint6_linear"
@@ -299,8 +299,8 @@ const BackgroundAnimation = () => (
           y2="357.655"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#F46737" />
-          <stop offset="1" stopColor="#F46737" stopOpacity="0" />
+          <stop stopColor="#39FF14" />
+          <stop offset="1" stopColor="#39FF14" stopOpacity="0" />
         </linearGradient>
         <linearGradient
           id="paint7_linear"
@@ -310,8 +310,8 @@ const BackgroundAnimation = () => (
           y2="118.996"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#F46737" />
-          <stop offset="1" stopColor="#F46737" stopOpacity="0" />
+          <stop stopColor="#39FF14" />
+          <stop offset="1" stopColor="#39FF14" stopOpacity="0" />
         </linearGradient>
         <linearGradient
           id="paint8_linear"
@@ -343,8 +343,8 @@ const BackgroundAnimation = () => (
           y2="258.193"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#945DD6" />
-          <stop offset="1" stopColor="#945DD6" stopOpacity="0" />
+          <stop stopColor="#00693E" />
+          <stop offset="1" stopColor="#00693E" stopOpacity="0" />
         </linearGradient>
         <linearGradient
           id="paint11_linear"
