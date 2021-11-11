@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-export const ImageContainer = styled.div`
+export const ImageContainer = styled.div `
   text-align: center;
   background-image: radial-gradient(50% 50% at 50% 50%, rgba(79, 108, 176, 0.25) 53.8%, rgba(79, 108, 176, 0) 100%);
   width: 100%;
@@ -23,11 +23,11 @@ export const ImageContainer = styled.div`
   }
 `
 
-export const MainImage = styled.img`
+export const MainImage = styled.img `
   width: 100%;
 `
 
-export const List = styled.ul`
+export const List = styled.ul `
   list-style-type: none;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -50,17 +50,17 @@ export const List = styled.ul`
   }
 `
 
-export const ListContainer = styled.div`
+export const ListContainer = styled.div `
   display: flex;
   flex-direction: column;
-
+  
   @media ${props => props.theme.breakpoints.sm}{
     display: flex;
     margin-left: 18px;
   }
 `
 
-export const ListTitle = styled.h4`
+export const ListTitle = styled.h4 `
   font-weight: 700;
   font-size: 28px;
   line-height: 32px;
@@ -81,7 +81,7 @@ export const ListTitle = styled.h4`
 }
 `
 
-export const ListParagraph = styled.p`
+export const ListParagraph = styled.p `
   font-size: 18px;
   line-height: 30px;
   color: rgba(255, 255, 255, 0.75);
@@ -97,7 +97,7 @@ export const ListParagraph = styled.p`
   }
 `
 
-export const ListItem = styled.li`
+export const ListItem = styled.li `
   max-width: 320px;
   display: flex;
   flex-direction: column;
@@ -113,7 +113,7 @@ export const ListItem = styled.li`
 }
 `
 
-export const ListIcon = styled.img`
+export const ListIcon = styled.img `
   display: block;
   width: 48px;
   height: 48px;
