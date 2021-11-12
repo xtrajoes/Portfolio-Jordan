@@ -18,7 +18,7 @@ const Hero = (props) => (
         <SectionText >
           An ordinary person who loves build a product from scratch and design it then breaks it with the code
         </SectionText>
-        <Button onClick={() => window.location = '/' }>
+        <Button onClick={() => window.location = '#about' }>
           Learn more about me
         </Button>
       </LeftSection>

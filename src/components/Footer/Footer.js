@@ -22,13 +22,13 @@ const Footer = () => {
          <Slogan><i>Anything that can go wrong will go wrong. <br/> - Murphy's Law</i></Slogan>
        </CompanyContainer>
        <SocialContainer>
-          <SocialIcons href="/">
+          <SocialIcons href="https://www.linkedin.com/in/jordan-andrianda/">
             <AiFillLinkedin size="3rem"/>
           </SocialIcons>
-          <SocialIcons href="/">
+          <SocialIcons href="https://www.instagram.com/xtrajoes/">
             <AiFillInstagram size="3rem"/>
           </SocialIcons>
-          <SocialIcons href="/">
+          <SocialIcons href="https://github.com/xtrajoes">
             <AiFillGithub size="3rem"/>
           </SocialIcons>
         </SocialContainer>
