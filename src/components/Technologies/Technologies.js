@@ -14,7 +14,33 @@ const Technologies = () =>  (
      <ListItem>
        {/* <DiReact size="3rem"/> */}
        <ListContainer>
-       <DiReact style={{display:"flex"}} size="3rem"/><ListTitle>Front-End</ListTitle>
+       <ListTitle style={{display:"flex"}}>
+         <DiReact size="3rem"/> Front-End
+        </ListTitle>
+          <ListParagraph>
+            Experiences: <br />
+            Hypertext Markup Language <br />
+            Cascading Style Sheets <br />
+            React JS & React Native
+          </ListParagraph>
+       </ListContainer>     
+     </ListItem>
+     <ListItem>
+       <DiReact size="3rem"/>
+       <ListContainer>
+        <ListTitle>Front-End</ListTitle>
+          <ListParagraph>
+            Experiences: <br />
+            Hypertext Markup Language <br />
+            Cascading Style Sheets <br />
+            React JS & React Native
+          </ListParagraph>
+       </ListContainer>     
+     </ListItem>
+     <ListItem>
+       {/* <DiReact size="3rem"/> */}
+       <ListContainer>
+       <DiReact size="3rem"/><ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiences: <br />
             Hypertext Markup Language <br />
