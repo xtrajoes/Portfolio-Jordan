@@ -1,10 +1,9 @@
-import TjContentPages from '../Pages/TjContentPages';
 export const projects = [{
         title: 'Example Title',
         description: "Example Description.",
         image: '/images/TJ.jpg',
         tags: ['Mongo', 'Express', 'React', 'Node'],
-        source: <TjContentPages />,
+        source: 'https://google.com',
         visit: 'https://google.com',
         id: 0,
     },
