@@ -1,7 +1,7 @@
 import React from 'react';
 import { DiReact } from 'react-icons/di';
 import { AiOutlineSketch } from 'react-icons/ai';
-import { HiOutlinePresentationChartBar } from 'react-icons/hi';
+import { TiLightbulb } from 'react-icons/ti';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -40,9 +40,8 @@ const Technologies = () =>  (
        </ListContainer>     
      </ListItem>
      <ListItem>
-       {/* <DiReact size="3rem"/> */}
        <ListContainer>
-       <HiOutlinePresentationChartBar size="3rem"/><ListTitle>Product Research</ListTitle>
+       <TiLightbulb size="3rem"/><ListTitle>Product Research</ListTitle>
           <ListParagraph>
             Experiences: <br />
             Hypertext Markup Language <br />
