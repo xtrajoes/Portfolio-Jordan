@@ -1,5 +1,7 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiReact } from 'react-icons/di';
+import { AiOutlineSketch } from 'react-icons/ai';
+import { HiOutlinePresentationChartBar } from 'react-icons/hi';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -26,9 +28,9 @@ const Technologies = () =>  (
        </ListContainer>     
      </ListItem>
      <ListItem>
-       <DiReact size="3rem"/>
+       <AiOutlineSketch size="3rem"/>
        <ListContainer>
-        <ListTitle>Front-End</ListTitle>
+        <ListTitle>Product Design</ListTitle>
           <ListParagraph>
             Experiences: <br />
             Hypertext Markup Language <br />
@@ -40,7 +42,7 @@ const Technologies = () =>  (
      <ListItem>
        {/* <DiReact size="3rem"/> */}
        <ListContainer>
-       <DiReact size="3rem"/><ListTitle>Front-End</ListTitle>
+       <HiOutlinePresentationChartBar size="3rem"/><ListTitle>Product Research</ListTitle>
           <ListParagraph>
             Experiences: <br />
             Hypertext Markup Language <br />
