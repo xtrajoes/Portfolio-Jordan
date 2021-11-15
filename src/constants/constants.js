@@ -3,7 +3,7 @@ export const projects = [{
         description: "Example Description.",
         image: '/images/TJ.jpg',
         tags: ['Mongo', 'Express', 'React', 'Node'],
-        source: 'https://google.com',
+        source: '/TjContentPages',
         visit: 'https://google.com',
         id: 0,
     },
