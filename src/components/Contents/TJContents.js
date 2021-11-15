@@ -31,8 +31,8 @@ const Contents = (props) => (
           have another hidden gem spot for they who wants to see, like history of Jakarta Show, Jakarta Modern, Jakarta Open Space, 
           Jakarta Shopping, Jakarta Heritage and many more that you can explore with this apps.
         </SectionText>
-        <Button onClick={() => window.location = '#about' }>
-          Learn more about me
+        <Button onClick={() => window.location = '/ ' }>
+          Back
         </Button>
       </LeftSection>
   </Section>
