@@ -17,10 +17,8 @@ const Contents = (props) => (
         <BlogCardContent>
           <Img src='images/TJ.jpg' />
         </BlogCardContent>
-        <br/>   <br/>
-     
+        <br/><br/>
         <SectionDivider/>
-        {/* <br/> */}
         <SectionTitle main> <h6> Web CMS </h6> </SectionTitle>
         <SectionSubText>Brief Description </SectionSubText>
           <SectionText  >
