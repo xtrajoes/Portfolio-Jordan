@@ -4,7 +4,7 @@ export const projects = [{
         image: '/images/TJ.jpg',
         tags: ['Balsamiq', 'Sketch'],
         source: '/TjContentPages',
-        visit: 'https://google.com',
+        context: 'UI/UX',
         id: 0,
     },
     {
@@ -13,7 +13,7 @@ export const projects = [{
         image: '/images/BCA.png',
         tags: ['Balsamiq', 'Sketch'],
         source: 'https://google.com',
-        visit: 'https://google.com',
+        context: 'UI/UX',
         id: 1,
     },
     {
@@ -22,7 +22,7 @@ export const projects = [{
         image: '/images/MRT.png',
         tags: ['Adobe XD', 'Sketch'],
         source: '',
-        visit: 'https://google.com',
+        context: 'UI/UX',
         id: 2,
     },
     {
@@ -31,7 +31,7 @@ export const projects = [{
         image: '/images/Bizzy Project.jpg',
         tags: ['Axure RP8', 'Sketch'],
         source: 'https://google.com',
-        visit: 'https://google.com',
+        context: 'UI/UX + Research',
         id: 3,
     },
     {
@@ -40,9 +40,28 @@ export const projects = [{
         image: '/images/Aksel.png',
         tags: ['Axure RP8', 'Sketch', 'Figma'],
         source: 'https://google.com',
-        visit: 'https://google.com',
+        context: 'UI/UX',
         id: 4,
     },
+    {
+        title: 'Proper-Ti',
+        description: "Developing a User Interface Design prototype with User Centered Design method approach that is applied to a interface for mobile applications",
+        image: '/images/Slice.png',
+        tags: ['MarvelApp', 'Sketch', 'Maze.Design'],
+        source: 'https://google.com',
+        context: 'UI/UX + Research',
+        id: 5,
+    },
+    {
+        title: 'Gojek Research',
+        description: "Join hands some fellow Driver Research gojek team to help achieve the best result to their need & goals by conducted, collected, observed and analyzed every research.",
+        image: '/',
+        tags: ['M-Excel', 'Maze.Design'],
+        source: 'https://google.com',
+        context: 'Research & Insight',
+        id: 6,
+    },
+
 ];
 
 export const TimeLineData = [

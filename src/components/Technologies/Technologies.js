@@ -8,9 +8,9 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
  <Section id="tech">
    <SectionDivider />
-   <SectionTitle main>Technologies So Far</SectionTitle>
+   <SectionTitle main>Technologies</SectionTitle>
    <SectionText>
-     Lorem Ipsum Defana Loren Ipsum Defana Karada
+     Technologies for Product and Frontend So Far
    </SectionText>
    <List>
      <ListItem>
@@ -21,32 +21,34 @@ const Technologies = () =>  (
         </ListTitle>
           <ListParagraph>
             Experiences: <br />
-            Hypertext Markup Language <br />
-            Cascading Style Sheets <br />
-            React JS & React Native
-          </ListParagraph>
-       </ListContainer>     
-     </ListItem>
-     <ListItem>
-       <AiOutlineSketch size="3rem"/>
-       <ListContainer>
-        <ListTitle>Product Design</ListTitle>
-          <ListParagraph>
-            Experiences: <br />
-            Hypertext Markup Language <br />
-            Cascading Style Sheets <br />
+            HTML & CSS <br />
+            JavaScript & Next JS <br />
             React JS & React Native
           </ListParagraph>
        </ListContainer>     
      </ListItem>
      <ListItem>
        <ListContainer>
-       <TiLightbulb size="3rem"/><ListTitle>Product Research</ListTitle>
+        <ListTitle style={{display:"flex"}}>
+          <AiOutlineSketch size="3rem"/>Product Design
+        </ListTitle>
           <ListParagraph>
             Experiences: <br />
-            Hypertext Markup Language <br />
-            Cascading Style Sheets <br />
-            React JS & React Native
+            Sketch & MarvelApp<br />
+            Figma & Balsamiq <br />
+            Adobe XD & Axure RP8
+          </ListParagraph>
+       </ListContainer>     
+     </ListItem>
+     <ListItem>
+       <ListContainer>
+        <ListTitle style={{display:"flex"}}>
+          <TiLightbulb size="3rem"/>Product Research
+        </ListTitle>
+          <ListParagraph>
+            Experiences: <br />
+            Maze.Design <br />
+           
           </ListParagraph>
        </ListContainer>     
      </ListItem>
