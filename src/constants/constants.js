@@ -46,9 +46,10 @@ export const projects = [{
 ];
 
 export const TimeLineData = [
-    { year: 2017, text: 'Started my Product enthusiast journey', },
-    { year: 2018, text: 'Worked as a freelance Product Designer', },
-    { year: 2019, text: 'Learn something new in Product Research ', },
-    { year: 2020, text: 'Developed projects from research to prototype', },
-    { year: 2021, text: 'Started my own platform', },
+    { year: 2017, text: 'Co-founded Callus Studio a software house to solve business problem with tech', },
+    { year: 2018, text: 'Was a Product Designer at Vesperia Global Merdeka', },
+    { year: 2019, text: 'Was a Product Designer at Bizzy Indonesia and Akseleran(early-mid year)', },
+    { year: 2019, text: 'Was a Product Researcher at Gojek (late)', },
+    { year: 2020, text: 'Graduated from University of Indonesia CS Major', },
+    { year: 2021, text: 'Started my own Website', },
 ];

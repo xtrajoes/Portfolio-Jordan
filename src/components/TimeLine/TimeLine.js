@@ -47,7 +47,7 @@ const Timeline = () => {
       <SectionDivider />
       <SectionTitle main >About</SectionTitle>
       <SectionText>
-        Lorem Ipsum
+        Product and Frontend Enthusiast Based on Jakarta
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
