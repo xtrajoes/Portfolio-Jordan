@@ -55,7 +55,7 @@ export const projects = [{
     {
         title: 'Gojek Research',
         description: "Join hands some fellow Driver Research gojek team to help achieve the best result to their need & goals by conducted, collected, observed and analyzed every research.",
-        image: '/',
+        image: '/images/Product-research.png',
         tags: ['M-Excel', 'Maze.Design'],
         source: 'https://google.com',
         context: 'Research & Insight',
