@@ -1,18 +1,19 @@
 
-import TJContents from '../components/Contents/TJContents';
+import BcaContents from '../components/Contents/BcaContents';
 import Footer from '../components/Footer/Footer'
 import HeaderContent from '../components/Header/HeaderContent'
 import Header from '../components/Header/Header'
-// import { Layout } from '../layout/Layout';
+import { Layout } from '../layout/Layout';
 
 
-const TjPage = () => {
+const BcaPage = () => {
   return(
     <>
-      <TJContents/>
+    <HeaderContent/>
+      <BcaContents/>
     <Footer/>
     </>
   );
 }
 
-export default TjPage;
+export default BcaPage;
