@@ -19,7 +19,7 @@ const Contents = (props) => (
         </BlogCardContent>
         <br/><br/>
         <SectionDivider/>
-        <SectionTitle main> <h6> Web CMS </h6> </SectionTitle>
+        <SectionTitle main> <h6> Android App Interface </h6> </SectionTitle>
         <SectionSubText>Brief Description </SectionSubText>
           <SectionText  >
             Transjakarta is a public transportation from Jakarta government of Indonesia Country. This app let knows you that jakarta

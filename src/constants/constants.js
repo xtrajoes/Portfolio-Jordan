@@ -12,7 +12,7 @@ export const projects = [{
         description: "Design new Content Management System fraud mail for their workers. To achieve their needs by the team click the fraud content in their E-mail.",
         image: '/images/BCA.png',
         tags: ['Balsamiq', 'Sketch'],
-        source: 'https://google.com',
+        source: '/BcaContentPages',
         context: 'UI/UX',
         id: 1,
     },
@@ -70,5 +70,5 @@ export const TimeLineData = [
     { year: 2019, text: 'Was a Product Designer at Bizzy Indonesia and Akseleran(early-mid year)', },
     { year: 2019, text: 'Was a Product Researcher at Gojek (late)', },
     { year: 2020, text: 'Graduated from University of Indonesia CS Major', },
-    { year: 2021, text: 'Started my own Website', },
+    { year: 2021, text: 'Started my own Journey', },
 ];
