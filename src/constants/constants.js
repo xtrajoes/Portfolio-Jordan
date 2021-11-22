@@ -30,7 +30,7 @@ export const projects = [{
         description: "Gathering some research topic about prototype design and create some customer content management system for bizzy project called Phoenix..",
         image: '/images/Bizzy Project.jpg',
         tags: ['Axure RP8', 'Sketch'],
-        source: 'https://google.com',
+        source: '/BzyPages',
         context: 'UI/UX + Research',
         id: 3,
     },
