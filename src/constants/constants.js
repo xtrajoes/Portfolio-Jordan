@@ -39,7 +39,7 @@ export const projects = [{
         description: "Redesign some interface pages such as Portfolio Summary, Statistics Page,  Coupun Page ",
         image: '/images/Aksel.png',
         tags: ['Axure RP8', 'Sketch', 'Figma'],
-        source: 'https://google.com',
+        source: '/AksPages',
         context: 'UI/UX',
         id: 4,
     },
