@@ -1,10 +1,11 @@
 import React from 'react';
-import { Section, SectionText, SectionTitle, SectionDivider,  SectionSubText } from '../../styles/GlobalComponents';
+import { Section, SectionText, SectionTitle, SectionDivider, SecondaryBtn , SectionSubText } from '../../styles/GlobalComponents';
 import { BlogCard, BlogCardContent, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from '../Projects/ProjectsStyles';
 import Button from '../../styles/GlobalComponents/Button';
 import { AiOutlineArrowLeft } from 'react-icons/ai'
 import { LeftSection } from './ContentsStyles';
 import { projects } from '../../constants/constants';
+import { List, ListContainer, ListItem, ListParagraph, ListTitle } from '../Technologies/TechnologiesStyles';
 
 const Contents = (props) => (
   <Section row nopadding>
@@ -47,9 +48,24 @@ const Contents = (props) => (
           <SectionText >
             - Mobile Application Interfaces
           </SectionText>
-        <Button onClick={() => window.location = '/ ' }>
-          Back
-        </Button>
+        <SectionSubText>Design Process for Proper-Ti </SectionSubText>
+          <SectionText >
+          <a href={"https://drive.google.com/file/d/1yApcXAzJtKWIBxxaHdjkWXedvvVYBmOF/view?usp=sharing"} target="_blank" rel="noopener noreferrer" download>
+            <SecondaryBtn>
+              Click Here
+            </SecondaryBtn>
+          </a>
+          </SectionText>
+        <List>
+          <Button onClick={() => window.location = '/ ' }>
+            Back
+          </Button>
+          <a href={"https://drive.google.com/file/d/1N7JWSTIF-XpgMjyNMPj30GvtG9mVq3zO/view?usp=sharing"} target="_blank" rel="noopener noreferrer" download>
+            <Button>
+              Download
+            </Button>
+          </a>
+        </List>
       </LeftSection>
   </Section>
 );
