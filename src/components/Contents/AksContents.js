@@ -14,7 +14,7 @@ const Contents = (props) => (
           <h6>Phoenix Product B2B Platform (2019)</h6>
         </SectionTitle>
         <BlogCardContent>
-          <Img src='images/Bizzy Project.jpg' />
+          <Img src='images/Aksel.png' />
         </BlogCardContent>
         <br/><br/>
         <SectionDivider/>

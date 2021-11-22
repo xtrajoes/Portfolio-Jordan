@@ -48,7 +48,7 @@ export const projects = [{
         description: "Developing a User Interface Design prototype with User Centered Design method approach that is applied to a interface for mobile applications",
         image: '/images/Slice.png',
         tags: ['MarvelApp', 'Sketch', 'Maze.Design'],
-        source: 'https://google.com',
+        source: '/PtiPages',
         context: 'UI/UX + Research',
         id: 5,
     },
