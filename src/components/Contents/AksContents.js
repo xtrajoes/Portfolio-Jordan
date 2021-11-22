@@ -7,7 +7,7 @@ import { LeftSection } from './ContentsStyles';
 import { projects } from '../../constants/constants';
 
 const Contents = (props) => (
-  <Section row nopadding>
+  <Section row>
       <LeftSection>
         <SectionTitle main center>
           Akseleran <br/>

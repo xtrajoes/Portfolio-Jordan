@@ -7,7 +7,7 @@ import { LeftSection } from './ContentsStyles';
 import { projects } from '../../constants/constants';
 
 const Contents = (props) => (
-  <Section nopadding>
+  <Section row>
       <LeftSection>
         <SectionTitle main center>
           Gojek Research <br/>

@@ -8,7 +8,7 @@ import { projects } from '../../constants/constants';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from '../Technologies/TechnologiesStyles';
 
 const Contents = (props) => (
-  <Section row nopadding>
+  <Section row>
       <LeftSection>
         <SectionTitle main center>
           Proper-Ti <br/>
@@ -60,11 +60,11 @@ const Contents = (props) => (
           <Button onClick={() => window.location = '/ ' }>
             Back
           </Button>
-          <a href={"https://drive.google.com/file/d/1N7JWSTIF-XpgMjyNMPj30GvtG9mVq3zO/view?usp=sharing"} target="_blank" rel="noopener noreferrer" download>
+          {/* <a href={"https://drive.google.com/file/d/1N7JWSTIF-XpgMjyNMPj30GvtG9mVq3zO/view?usp=sharing"} target="_blank" rel="noopener noreferrer" download>
             <Button>
               Download
             </Button>
-          </a>
+          </a> */}
         </List>
       </LeftSection>
   </Section>
