@@ -48,7 +48,6 @@ const Technologies = () =>  (
           <ListParagraph>
             Experiences: <br />
             Maze.Design <br />
-           
           </ListParagraph>
        </ListContainer>     
      </ListItem>
