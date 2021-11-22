@@ -57,7 +57,7 @@ export const projects = [{
         description: "Join hands some fellow Driver Research gojek team to help achieve the best result to their need & goals by conducted, collected, observed and analyzed every research.",
         image: '/images/Product-research.png',
         tags: ['M-Excel', 'Maze.Design'],
-        source: 'https://google.com',
+        source: '/GjkPages',
         context: 'Research & Insight',
         id: 6,
     },

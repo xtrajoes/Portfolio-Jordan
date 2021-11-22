@@ -18,7 +18,7 @@ const Contents = (props) => (
         </BlogCardContent>
         <br/><br/>
         <SectionDivider/>
-        <SectionTitle main> <h6> Web CMS </h6> </SectionTitle>
+        <SectionTitle main> <h6> Mobile Application Interfaces </h6> </SectionTitle>
         <SectionSubText>Brief Description </SectionSubText>
           <SectionText  >
             Proper-ti is a special property agent from PT BUANA MEDIA NUSANTARA focus on buying and selling housing that provides a system from the start of the development process from mature land to ready for habitation. Proper-Ti provides the facility to be able to view the status of the offer, booking fees, up to receipt of booking fees. They also have a pages for customers if they want to make a complaint.
