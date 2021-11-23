@@ -11,14 +11,16 @@ const Contents = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Mass Rapid Transit Jakarta (Phase 1) <br/>
-          <h6>MRT App Interface and CMS (2018)</h6>
+          <SectionText>
+            MRT App Interface and CMS (2018)
+          </SectionText> 
         </SectionTitle>
         <BlogCardContent>
           <Img src='images/MRT.png' />
         </BlogCardContent>
         <br/><br/>
         <SectionDivider/>
-        <SectionTitle main> <h6> Web CMS & App </h6> </SectionTitle>
+        <SectionTitle main> Web CMS & App </SectionTitle>
         <SectionSubText>Brief Description </SectionSubText>
           <SectionText  >
             Jakarta MRT is a rapid transit system in Jakarta, the capital city of Indonesia. The system is operated by PT Mass Rapid Transit Jakarta, a municipally owned perseroan terbatas of the city of Jakarta. Phase 1 of the project was officially opened on 24 March 2019

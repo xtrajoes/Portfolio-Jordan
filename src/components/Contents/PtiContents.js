@@ -12,14 +12,16 @@ const Contents = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Proper-Ti <br/>
-          <h6>Sales & Customer Mobile Platform (2020)</h6>
+          <SectionText>
+            Sales & Customer Mobile Platform (2020)
+          </SectionText>        
         </SectionTitle>
         <BlogCardContent>
           <Img src='images/Slice.png' />
         </BlogCardContent>
         <br/><br/>
         <SectionDivider/>
-        <SectionTitle main> <h6> Mobile Application Interfaces </h6> </SectionTitle>
+        <SectionTitle main> Mobile Application Interfaces </SectionTitle>
         <SectionSubText>Brief Description </SectionSubText>
           <SectionText  >
             Proper-ti is a special property agent from PT BUANA MEDIA NUSANTARA focus on buying and selling housing that provides a system from the start of the development process from mature land to ready for habitation. Proper-Ti provides the facility to be able to view the status of the offer, booking fees, up to receipt of booking fees. They also have a pages for customers if they want to make a complaint.

@@ -11,14 +11,16 @@ const Contents = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Bizzy Indonesia <br/>
-          <h6>Phoenix Product B2B Platform  (2019)</h6>
+          <SectionText>
+            Phoenix Product B2B Platform  (2019)
+          </SectionText>
         </SectionTitle>
         <BlogCardContent>
           <Img src='images/Bizzy Project.jpg' />
         </BlogCardContent>
         <br/><br/>
         <SectionDivider/>
-        <SectionTitle main> <h6> Web CMS </h6> </SectionTitle>
+        <SectionTitle main> Web CMS </SectionTitle>
         <SectionSubText>Brief Description </SectionSubText>
           <SectionText  >
             Bizzy Indonesia is a dynamic and inclusive digital marketplace for businesses. Bizzy was equipped with an e-procurment platform for search, tactical and transactional procurement of every item it sells. Bizzy was engaged in B2B or rather known as Business to Business, whic selling goods to large companies such as indonesia corporations from electronic to office equipment. Bizzy was transforming into a marketplace that upholds justice with the concept of ‘clean economy’ with a transparent, efficient price.

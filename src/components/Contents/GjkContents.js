@@ -2,7 +2,7 @@ import React from 'react';
 import { Section, SectionText, SectionTitle, SectionDivider,  SectionSubText } from '../../styles/GlobalComponents';
 import { BlogCard, BlogCardContent, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from '../Projects/ProjectsStyles';
 import Button from '../../styles/GlobalComponents/Button';
-import { AiOutlineArrowLeft } from 'react-icons/ai'
+import { GoPrimitiveDot } from 'react-icons/go';
 import { LeftSection } from './ContentsStyles';
 import { projects } from '../../constants/constants';
 
@@ -11,7 +11,9 @@ const Contents = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Gojek Research <br/>
-          Driver Researcher & Project Snoopy (2019)
+            <SectionText>
+            Driver Researcher & Project Snoopy (2019)
+            </SectionText>
         </SectionTitle>
         <BlogCardContent>
           <Img src='images/Product-research.png' />

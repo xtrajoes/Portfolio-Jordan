@@ -11,14 +11,16 @@ const Contents = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Bank Central Asia <br/>
-          <h6>Content Management System for Blasting E-mail  (2018)</h6>
+          <SectionText>
+            Content Management System for Blasting E-mail  (2018)
+          </SectionText>
         </SectionTitle>
         <BlogCardContent>
           <Img src='images/BCA.png' />
         </BlogCardContent>
         <br/><br/>
         <SectionDivider/>
-        <SectionTitle main> <h6> Web CMS </h6> </SectionTitle>
+        <SectionTitle main> Web CMS </SectionTitle>
         <SectionSubText>Brief Description </SectionSubText>
           <SectionText  >
             Bank Central Asia is an Indonesian bank founded on 21 February 1957. It is considered as the largest privately-owned bank in Indonesia. We got project to design the content management systems for Bank Central Asia or BCA, the purpose of this CMS to test blast email for workers, so BCA would know how much of their worker can get fraud email. Blast email contains any fake website, promotion or anything that may workers interest to fill that and get fraud.

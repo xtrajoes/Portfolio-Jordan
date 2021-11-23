@@ -11,14 +11,16 @@ const Contents = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Transjakarta Application <br/>
-          <h6>Public transportation from indonesia government (2018)</h6>
+          <SectionText>
+            Public transportation from indonesia government (2018)
+          </SectionText>        
         </SectionTitle>
         <BlogCardContent>
           <Img src='images/TJ.jpg' />
         </BlogCardContent>
         <br/><br/>
         <SectionDivider/>
-        <SectionTitle main> <h6> Android App Interface </h6> </SectionTitle>
+        <SectionTitle main> Android App Interface </SectionTitle>
         <SectionSubText>Brief Description </SectionSubText>
           <SectionText  >
             Transjakarta is a public transportation from Jakarta government of Indonesia Country. This app let knows you that jakarta

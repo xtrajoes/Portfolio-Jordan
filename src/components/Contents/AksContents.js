@@ -11,14 +11,16 @@ const Contents = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Akseleran <br/>
-          <h6>Phoenix Product B2B Platform (2019)</h6>
+          <SectionText>
+            Phoenix Product B2B Platform (2019)
+          </SectionText>
         </SectionTitle>
         <BlogCardContent>
           <Img src='images/Aksel.png' />
         </BlogCardContent>
         <br/><br/>
         <SectionDivider/>
-        <SectionTitle main> <h6> Web CMS </h6> </SectionTitle>
+        <SectionTitle main>  Web & App Interfaces  </SectionTitle>
         <SectionSubText>Brief Description </SectionSubText>
           <SectionText  >
             Akseleran is a P2P or peer-to-peer lending platform in Indonesia that connects SMEs that need loans to develop their businesses with a pool of lenders who have more funds to fund these loans. Akseleran provides business actors with access to capital with competitive interest rates and flexibility in loan tenors, payment models, and collateral inclusion. Acceleration also opens up alternative lending opportunities to Indonesians to get attractive returns and commensurate with the existing risks.
