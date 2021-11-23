@@ -33,15 +33,15 @@ const Contents = (props) => (
           </SectionText>
         <SectionSubText>Collaboration Team </SectionSubText>
           <SectionText >
-            VP of Product
+            - VP of Product
             <br/>
-            Product Manager
+            - Product Manager
             <br/>
-            CMO
+            - CMO
             <br/>
-            Mobile Front End Engineer Developer
+            - Mobile Front End Engineer Developer
             <br/>
-            Back End Engineer Developer
+            - Back End Engineer Developer
           </SectionText>
         <SectionSubText>Timeline </SectionSubText>
           <SectionText >
