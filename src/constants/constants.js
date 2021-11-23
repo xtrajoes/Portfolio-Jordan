@@ -69,6 +69,6 @@ export const TimeLineData = [
     { year: 2018, text: 'Was a Product Designer at Vesperia Global Merdeka', },
     { year: 2019, text: 'Was a Product Designer at Bizzy Indonesia and Akseleran(early-mid year)', },
     { year: 2019, text: 'Was a Product Researcher at Gojek (late)', },
-    { year: 2020, text: 'Graduated from University of Indonesia CS Major', },
+    { year: 2020, text: 'Designed Mobile App Prototype Interface of Proper-Ti ', },
     { year: 2021, text: 'Started my own Journey', },
 ];
