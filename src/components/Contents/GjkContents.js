@@ -11,14 +11,14 @@ const Contents = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Gojek Research <br/>
-          <h6>Driver Researcher & Project Snoopy (2019)</h6>
+          Driver Researcher & Project Snoopy (2019)
         </SectionTitle>
         <BlogCardContent>
           <Img src='images/Product-research.png' />
         </BlogCardContent>
         <br/><br/>
         <SectionDivider/>
-        <SectionTitle main> <h6> Mobile Application Interfaces </h6> </SectionTitle>
+        <SectionTitle main>  Mobile Application Interfaces </SectionTitle>
         <SectionSubText>Brief Description </SectionSubText>
           <SectionText  >
             PT Aplikasi Karya Anak Bangsa, doing business as Gojek, is an Indonesian on-demand multi-service platform and digital payment technology group based in Jakarta. Gojek was first established in Indonesia in 2010 as a call center to connect consumers to courier delivery and two-wheeled ride-hailing services.
