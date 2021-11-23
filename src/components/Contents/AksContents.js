@@ -10,11 +10,12 @@ const Contents = (props) => (
   <Section row>
       <LeftSection>
         <SectionTitle main center>
-          Akseleran <br/>
-          <SectionText>
-            Phoenix Product B2B Platform (2019)
-          </SectionText>
+          Akseleran 
         </SectionTitle>
+        <SectionText>
+            Phoenix Product B2B Platform (2019)
+        </SectionText>
+          <br/>
         <BlogCardContent>
           <Img src='images/Aksel.png' />
         </BlogCardContent>

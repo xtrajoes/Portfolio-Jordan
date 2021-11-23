@@ -10,11 +10,12 @@ const Contents = (props) => (
   <Section row>
       <LeftSection>
         <SectionTitle main center>
-          Bank Central Asia <br/>
-          <SectionText>
+          Bank Central Asia 
+        </SectionTitle> 
+        <SectionText>
             Content Management System for Blasting E-mail  (2018)
           </SectionText>
-        </SectionTitle>
+        <br/>
         <BlogCardContent>
           <Img src='images/BCA.png' />
         </BlogCardContent>

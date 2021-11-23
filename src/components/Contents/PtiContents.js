@@ -11,11 +11,12 @@ const Contents = (props) => (
   <Section row>
       <LeftSection>
         <SectionTitle main center>
-          Proper-Ti <br/>
-          <SectionText>
-            Sales & Customer Mobile Platform (2020)
-          </SectionText>        
+          Proper-Ti   
         </SectionTitle>
+        <SectionText>
+            Sales & Customer Mobile Platform (2020)
+        </SectionText>       
+          <br/>
         <BlogCardContent>
           <Img src='images/Slice.png' />
         </BlogCardContent>

@@ -10,11 +10,12 @@ const Contents = (props) => (
   <Section row >
       <LeftSection>
         <SectionTitle main center>
-          Transjakarta Application <br/>
-          <SectionText>
-            Public transportation from indonesia government (2018)
-          </SectionText>        
+          Transjakarta Application  
         </SectionTitle>
+        <SectionText>
+            Public transportation from indonesia government (2018)
+        </SectionText>  
+        <br/> 
         <BlogCardContent>
           <Img src='images/TJ.jpg' />
         </BlogCardContent>
