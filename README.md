@@ -11,9 +11,11 @@
 Setup firsttime
  - ```npm i```
  - ```npm start```
+
+
 Run local
  - ```npm run dev```
  - (```npm run build```)
 
-## Credits to JSmastery for this amazing template.
+#Credits to JSmastery for this amazing template.
 
