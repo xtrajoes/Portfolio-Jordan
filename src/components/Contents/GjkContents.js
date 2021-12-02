@@ -32,7 +32,7 @@ const Contents = (props) => (
           </SectionText>
         <SectionSubText>Responsibility </SectionSubText>
           <SectionText >
-          As a Product Researcher Platform Driver Function Contract-Based, I was :<br/>
+          As a Product Researcher I was tasked to :<br/>
           Conducted IDI(InDepth Interview) GoPay behaviour user as a driver and as user 2 wheel drivers in the first week onhand (Bangalore team) in Kemang Timur Gojek Office
           <br/> <br/>
         
