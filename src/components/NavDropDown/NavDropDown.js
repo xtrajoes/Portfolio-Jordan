@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 
-export const DropDownContainer = styled.div`
+export const DropDownContainer = styled.div `
   position: absolute;
   display: flex;
   flex-direction: column;
@@ -26,14 +26,14 @@ export const DropDownContainer = styled.div`
     top: 24px;
   }
 `
-export const DropDownItem = styled.a`
+export const DropDownItem = styled.a `
   width: 100%;
   display: flex;
   align-items: flex-start;
   cursor: pointer;
   transition: .3s ease;
   padding: 12px 16px;
-
+  
   &:hover {
     transform: scale(1.05);
     background-color: #eee;
@@ -49,25 +49,25 @@ export const DropDownItem = styled.a`
   }
 `
 
-export const DropDownIcon = styled.div`
+export const DropDownIcon = styled.div `
   width: 32px;
   height: 32px;
   margin-right: 16px;
 `
 
-export const DropDownTextContainer = styled.div`
+export const DropDownTextContainer = styled.div `
   display: flex;
   flex-direction: column;
 `
 
-export const DropDownItemTitle = styled.h2`
+export const DropDownItemTitle = styled.h2 `
   color: #0f1624;
   font-size: 18px;
   line-height: 26px;
   text-align: start;
 `
 
-export const DropDownItemDesc = styled.p`
+export const DropDownItemDesc = styled.p `
   color: #0f1624;
   opacity: 0.5;
   font-size: 14px;
